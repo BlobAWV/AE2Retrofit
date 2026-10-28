@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2retrofit:extended_interface_part"
+    }
+  ],
+  "result": { "item": "ae2retrofit:extended_interface", "count": 1 }
+}

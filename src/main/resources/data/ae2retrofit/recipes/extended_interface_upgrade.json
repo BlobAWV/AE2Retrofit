@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": { "item": "appliedenergistics2:quartz_glass" },
+    "B": { "tag": "appliedenergistics2:crystals/fluix" },
+    "C": { "item": "appliedenergistics2:singularity" }
+  },
+  "result": { "item": "ae2retrofit:extended_interface_upgrade", "count": 1 }
+}

@@ -1,0 +1,11 @@
+{
+  "itemGroup.ae2retrofit": "AE2 retrofit",
+  "block.ae2retrofit.extended_interface": "МЭ расширенный интерфейс",
+  "gui.ae2retrofit.extended_interface": "МЭ расширенный интерфейс",
+  "item.ae2retrofit.extended_interface_upgrade": "Карта расширения интерфейса",
+  "item.ae2retrofit.extended_interface_upgrade.tooltip": "Используйте на интерфейсе для расширения количества его слотов для шаблонов до 36",
+  "item.ae2retrofit.extended_interface_part": "МЭ расширенный интерфейс",
+  "block.ae2retrofit.extended_dual_interface": "МЭ расширенный сдвоенный интерфейс",
+  "item.ae2retrofit.extended_dual_interface_part": "МЭ расширенный сдвоенный интерфейс",
+  "gui.ae2retrofit.extended_dual_interface": "МЭ расширенный сдвоенный интерфейс"
+}

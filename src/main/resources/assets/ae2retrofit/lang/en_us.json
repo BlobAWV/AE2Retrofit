@@ -1,0 +1,11 @@
+{
+  "itemGroup.ae2retrofit": "AE2 retrofit",
+  "block.ae2retrofit.extended_interface": "ME Extended Interface",
+  "gui.ae2retrofit.extended_interface": "ME Extended Interface",
+  "item.ae2retrofit.extended_interface_upgrade": "Extended Interface Upgrade",
+  "item.ae2retrofit.extended_interface_upgrade.tooltip": "Use on an Interface to expand it to 36 pattern slots",
+  "item.ae2retrofit.extended_interface_part": "ME Extended Interface",
+  "block.ae2retrofit.extended_dual_interface": "ME Extended Dual Interface",
+  "item.ae2retrofit.extended_dual_interface_part": "ME Extended Dual Interface",
+  "gui.ae2retrofit.extended_dual_interface": "ME Extended Interface"
+}

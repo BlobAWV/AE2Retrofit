@@ -1,0 +1,18 @@
+{
+  "conditions": [
+  {
+    "type": "forge:mod_loaded",
+    "modid": "ae2fc"
+  }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2retrofit:extended_interface_upgrade"
+    },
+    {
+      "item": "ae2fc:dual_interface"
+    }
+  ],
+  "result": { "item": "ae2retrofit:extended_dual_interface", "count": 1 }
+}

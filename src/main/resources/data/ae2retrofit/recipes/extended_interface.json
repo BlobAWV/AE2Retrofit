@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2retrofit:extended_interface_upgrade"
+    },
+    {
+      "item": "appliedenergistics2:interface"
+    }
+  ],
+  "result": { "item": "ae2retrofit:extended_interface", "count": 1 }
+}

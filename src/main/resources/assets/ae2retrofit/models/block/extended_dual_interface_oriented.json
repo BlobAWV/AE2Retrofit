@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ae2retrofit:blocks/extended_dual_interface",
+    "down": "ae2retrofit:blocks/extended_dual_interface_alternate",
+    "up": "ae2retrofit:blocks/extended_dual_interface",
+    "north": "ae2retrofit:blocks/extended_dual_interface_arrow",
+    "south": "ae2retrofit:blocks/extended_dual_interface_arrow",
+    "east": "ae2retrofit:blocks/extended_dual_interface_arrow",
+    "west": "ae2retrofit:blocks/extended_dual_interface_arrow"
+  }
+}

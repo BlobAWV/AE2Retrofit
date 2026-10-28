@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "blobawv.ae2retrofit.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ae2retrofit.refmap.json",
+  "plugin": "blobawv.ae2retrofit.mixins.AE2RetrofitMixinPlugin",
+  "mixins": [
+    "MixinDualityInterface",
+    "MixinAEBasePart",
+    "MixinInterfaceTerminalContainer",
+    "MixinInvTrackerAccessor"
+  ],
+  "client": [
+    "MixinSwitchGuisPacket",
+    "MixinGuiFCPriority",
+    "MixinInterfaceTerminalScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
