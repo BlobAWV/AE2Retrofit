@@ -1,5 +1,7 @@
 package blobawv.ae2retrofit.mixins;
 
+import blobawv.ae2retrofit.mixinsupport.RowSegment;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -152,18 +154,5 @@ public abstract class MixinInterfaceTerminalScreen extends AEBaseScreen<Interfac
         if (first) return new Rectangle2d(0, 17, 195, 18);
         if (last)  return new Rectangle2d(0, 89, 195, 18);
         return new Rectangle2d(0, 53, 195, 18);
-    }
-
-    public static final class RowSegment {
-        private final InterfaceRecord record;
-        private final int rowIndex;
-
-        public RowSegment(InterfaceRecord record, int rowIndex) {
-            this.record = record;
-            this.rowIndex = rowIndex;
-        }
-
-        public InterfaceRecord getRecord() { return record; }
-        public int getRowIndex() { return rowIndex; }
     }
 }
